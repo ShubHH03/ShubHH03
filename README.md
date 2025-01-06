@@ -1,6 +1,5 @@
 # 💫 About Me:
-#👯 I’m looking to collaborate on:
-Fullstack projects
+👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>
 
 
 ## 🌐 Socials:
