@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Full Stack Development**
  
- 🌱 I’m currently learning **to build completely type-safe and scalable web applications**
+<!-- 🌱 I’m currently learning **to build completely type-safe and scalable web applications** -->
 
 💬 Ask me about **React, Node.js, Next.js**
 
