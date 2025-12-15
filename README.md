@@ -14,7 +14,7 @@
  
 <!-- 🌱 I’m currently learning **to build completely type-safe and scalable web applications** -->
 
-💬 Ask me about **React, Node.js, Next.js**
+💬 Ask me about **React.js, Node.js, Next.js**
 
 ⚡ I have a keen interest in problem-solving. So, I'm learning **DSA**
 
